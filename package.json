@@ -1,0 +1,11 @@
+{
+  "name": "removehtmltags",
+  "version": "1.0.0",
+  "description": "This packages helps remove html tags from a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
